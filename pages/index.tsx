@@ -1,6 +1,6 @@
 import Layout from '../components/Layout';
-import Link from 'next/link';
-import Tabs from '../components/Tabs';
+// import Link from 'next/link';
+// import Tabs from '../components/Tabs';
 import Tabs2 from '../components/Tabs2';
 
 const IndexPage = () => (
